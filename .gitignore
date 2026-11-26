@@ -1,0 +1,16 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Temporary files from Code Runner
+tempCodeRunnerFile.c
+tempCodeRunnerFile.exe
+
+# Editor settings (machine-specific)
+.vscode/
+
+# Older version of the project
+cinema_booking.c
+cinema_booking.exe
+README_cinema_booking.md
